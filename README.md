@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="TEKGUYZ Banner" src="https://github.com/user-attachments/assets/916828f3-71a6-434b-8964-3969a891842f" />
+![TEKGUYZ Banner](https://github.com/user-attachments/assets/916828f3-71a6-434b-8964-3969a891842f)
 </div>
 
 # We build tech that actually works.
