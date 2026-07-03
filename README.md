@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="3360" height="1280" alt="facebookbanner" src="https://github.com/user-attachments/assets/b2bd5852-561c-496d-9242-57bc79e13a96" />
   </div>
 
 # We build tech that actually works.
@@ -43,7 +44,7 @@ We're not an agency. We're a small, technical team that builds smart systems, cu
 ### 📫 Still doing things the hard way?
 Let's talk. Tell us what you're working with and what you're trying to fix. We'll take it from there — no jargon, no pressure.
 
-**Contact:** admin@tekguyz.com
+**Contact:** hello@tekguyz.com
 
 <br>
 
