@@ -1,4 +1,5 @@
-![TEKGUYZ Banner](https://github.com/user-attachments/assets/916828f3-71a6-434b-8964-3969a891842f)
+<div align="center">
+  </div>
 
 # We build tech that actually works.
 
@@ -10,12 +11,14 @@ We're not an agency. We're a small, technical team that builds smart systems, cu
 
 ### 🚀 Core Engineering Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2563EB?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2563EB?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=FFFFFF" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+</div>
 
 ---
 
@@ -43,3 +46,6 @@ Let's talk. Tell us what you're working with and what you're trying to fix. We'l
 **Contact:** hello@tekguyz.com
 
 <br>
+
+<div align="center">
+  </div>
