@@ -1,31 +1,51 @@
-# TEKGUYZ
-**We build tech that actually works for your business.**
+<div align="center">
+  </div>
 
-Most businesses don't need more software. They need the right system, built correctly, by someone who actually understands how they work. That's what I do. 
+# We build tech that actually works.
 
-TEKGUYZ is not an agency. I operate as a solo freelance developer building smart systems, custom tools, and professional platforms for local businesses ready to stop doing things the hard way.
+Most businesses don't need more software. They need the right system, built correctly, by people who understand how they work. That's what we do.
 
----
-
-### 💡 What We Do
-
-* **Smart Operations:** Custom AI Assistants, Task & Workflow Automation, Automated Data Sorting, and Real-Time Operational Alerts.
-* **Business Systems:** Secure Client & Team Logins, Private Document Portals, Automated Invoicing Tools, and custom Integrations.
-* **Marketing & Brand Sites:** High-Speed Mobile Performance, Professional SEO, Custom Brand Design, and Built-In Lead Generation.
-* **Custom Web Apps:** Online Ordering & Cart Systems, Appointment & Scheduling Portals, Client-Facing Dashboards, and Bilingual Tools.
+We're not an agency. We're a small, technical team that builds smart systems, custom tools, and professional platforms for local businesses ready to stop doing things the hard way.
 
 ---
 
-### 🚀 Featured Work & Case Studies
+### 🚀 Core Engineering Stack
 
-* **Marine Service Showcase & Lead Capture:** Modern landing page with dynamic contact forms, before-and-after visual sliders, and a fully mobile-optimized layout.
-* **Team Performance & Automated Customer Feedback:** CRM-linked physical desk phone logs that automate team credit and SMS customer feedback.
-* **Meeting & Research Organizer:** Web tool that securely records meetings, extracting key takeaways and action checklists automatically.
-* **Field Photo Reports & Quality Tracking:** Photo-capture system that drops job site images straight into digital reports for instant visual proof.
-* **Bilingual Restaurant Menu & WhatsApp Ordering:** Digital platform that lets customers browse and order directly via WhatsApp.
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2563EB?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=FFFFFF" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+</div>
 
 ---
 
-### 📫 Let's Talk
-Tell me what you're working with and what you're trying to fix. I'll take it from there.  
+### 💡 What We Build
+
+* **Smart Operations:** Custom AI Assistants, Automated Data Sorting, Task & Workflow Automation, Real-Time Operational Alerts.
+* **Business Systems:** Secure Client & Team Logins, Private Document Portals, Automated Invoicing Tools, Integrations.
+* **Marketing & Brand Sites:** High-Speed Mobile Performance, Professional SEO, Custom Brand Design, Built-In Lead Generation.
+* **Custom Web Apps:** Online Ordering & Cart Systems, Appointment & Scheduling Portals, Client-Facing Dashboards, Bilingual Tools.
+
+---
+
+### 🛠️ Real Problems. Real Outcomes.
+
+* **[Team Performance & Automated Feedback](https://advantage-teams.vercel.app/dashboard):** Manual shift logs eliminated entirely. Staff focus protected during active work.
+* **[Field Photo Reports & Quality Tracking](https://rs-field-ops.netlify.app/):** Cleaner quality tracking, full client transparency, and the end of expensive return trips.
+* **[Meeting & Research Organizer](https://crispy-bacon.netlify.app/):** Digital workspace that listens to recordings and files, pulling out vital facts automatically.
+* **[Marine Showcase & Lead Capture](https://underthesunmarine.com/):** A high-impact landing page built to attract new clients with dynamic contact forms and before-and-after visual sliders.
+
+---
+
+### 📫 Still doing things the hard way?
+Let's talk. Tell us what you're working with and what you're trying to fix. We'll take it from there — no jargon, no pressure.
+
 **Contact:** admin@tekguyz.com
+
+<br>
+
+<div align="center">
+  </div>
