@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="3360" height="1280" alt="facebookbanner" src="https://github.com/user-attachments/assets/b2bd5852-561c-496d-9242-57bc79e13a96" />
-  </div>
+<img width="1376" height="768" alt="og-image" src="https://github.com/user-attachments/assets/916828f3-71a6-434b-8964-3969a891842f" />
+</div>
 
 # We build tech that actually works.
 
