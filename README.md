@@ -84,7 +84,7 @@ We don’t showcase static screenshots of legacy software. Every featured system
 Tell us what you're working with and what you're trying to fix. We'll take it from there—no jargon, no sales pressure.
 
 * **Public Inquiries:** hello@tekguyz.com
-* **Operational Base:** Pompano Beach, FL (Cloud Delivery Nationwide)
+* **Operational Base:** Remote
 * **Core Hours:** Monday – Friday, 9:00 AM – 5:00 PM EST
 
 <div align="center">
