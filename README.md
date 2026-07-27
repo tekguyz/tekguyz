@@ -26,21 +26,21 @@ We engineer the business systems, automated workflows, and custom software that 
 
 ### 💡 Core Capabilities & Solutions
 
-* <img src="https://img.shields.io/badge/Smart_Operations-3B6FE0?style=flat-square" alt="Smart Operations" />  
+- <img src="https://img.shields.io/badge/Smart_Operations-3B6FE0?style=flat-square" alt="Smart Operations" /><br>
   Your business generates new data and tasks every hour. We build systems that handle the heavy lifting automatically — organizing files, answering customer questions, moving data — so you can focus on the big picture.
-  * **Features:** Custom AI Assistants · Automated Data Sorting · Task & Workflow Automation · Real-Time Operational Alerts
+  - **Features:** Custom AI Assistants · Automated Data Sorting · Task & Workflow Automation · Real-Time Operational Alerts
 
-* <img src="https://img.shields.io/badge/AI_Voice_Agents-7C6FE0?style=flat-square" alt="AI Voice Agents" />  
+- <img src="https://img.shields.io/badge/AI_Voice_Agents-7C6FE0?style=flat-square" alt="AI Voice Agents" /><br>
   Your phones don't stop ringing just because your doors are closed. We build AI voice agents that answer every call like your best employee would — capturing job details, scheduling consultations, and syncing everything in real time, day or night.
-  * **Features:** Real-Time Conversational Voice AI · Automatic Lead Capture & Qualification · Live Appointment Scheduling · Instant CRM & Follow-Up Sync
+  - **Features:** Real-Time Conversational Voice AI · Automatic Lead Capture & Qualification · Live Appointment Scheduling · Instant CRM & Follow-Up Sync
 
-* <img src="https://img.shields.io/badge/Business_Systems-F2A93C?style=flat-square" alt="Business Systems" />  
+- <img src="https://img.shields.io/badge/Business_Systems-F2A93C?style=flat-square" alt="Business Systems" /><br>
   Move off spreadsheets and email threads into one organized, private system where your clients and team can log in, share documents, and track projects.
-  * **Features:** Secure Client & Team Logins · Private Document Portals · Automated Invoicing · Integrations Across Your Tools
+  - **Features:** Secure Client & Team Logins · Private Document Portals · Automated Invoicing · Integrations Across Your Tools
 
-* <img src="https://img.shields.io/badge/Custom_Web_Apps-2FA679?style=flat-square" alt="Custom Web Apps" />  
+- <img src="https://img.shields.io/badge/Custom_Web_Apps-2FA679?style=flat-square" alt="Custom Web Apps" /><br>
   Sometimes a website isn't enough — you need something that does something. We build tools your team and clients use daily: ordering systems, headless e-commerce, scheduling portals, dashboards. If you can describe the workflow, we can build it.
-  * **Features:** Online Ordering & Cart Systems · Headless E-Commerce Integrations · Appointment & Scheduling Portals · Client-Facing Dashboards
+  - **Features:** Online Ordering & Cart Systems · Headless E-Commerce Integrations · Appointment & Scheduling Portals · Client-Facing Dashboards
 
 ---
 
