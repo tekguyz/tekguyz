@@ -3,6 +3,9 @@
   <img src="https://img.shields.io/badge/-%233B6FE0?style=flat" width="20%" height="4" /><img src="https://img.shields.io/badge/-%237C6FE0?style=flat" width="20%" height="4" /><img src="https://img.shields.io/badge/-%23F2A93C?style=flat" width="20%" height="4" /><img src="https://img.shields.io/badge/-%232FA679?style=flat" width="20%" height="4" />
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/tekguyz/tekguyz-site/master/public/brand/icon-master.svg" alt="TEKGUYZ logo" width="130" />
 
   # TEKGUYZ
 
