@@ -4,8 +4,6 @@
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/tekguyz/tekguyz-site/master/public/brand/icon-master.svg" alt="TEKGUYZ logo" width="130" />
 
   # TEKGUYZ
 
