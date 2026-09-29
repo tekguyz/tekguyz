@@ -29,12 +29,12 @@ Every system below is running right now. Tap a name for the full story. Tap **Op
 
 | | What it is | Try it |
 |---|---|---|
-| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Field Photo Reports](https://tekguyz.com/work/field-photo-reports).** Installers send one Report from the job site with stamped photos. The office sees it live. English and Spanish. | [Open it →](https://realstone-field-ops.vercel.app) |
-| <img src="https://img.shields.io/badge/-AI_Voice_Agents-7C6FE0?style=flat-square" /> | **[AI Voice Receptionist](https://tekguyz.com/work/ai-voice-receptionist).** Answers after-hours calls, books the consultation, and syncs the CRM. Watch it happen on one screen. | [Open it →](https://tekguyz-sarah.vercel.app) |
-| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Lead & Pipeline CRM](https://tekguyz.com/work/tekguyz-crm).** Every lead from first enquiry to closed deal. The CRM we run TEKGUYZ on. | [Open it →](https://tekguyz-crm.vercel.app/demo) |
-| <img src="https://img.shields.io/badge/-Smart_Operations-3B6FE0?style=flat-square" /> | **[AI Meeting Notes](https://tekguyz.com/work/ai-meeting-notes).** Records from the browser, no bot in the call. Every takeaway links back to the transcript. | [Open it →](https://squid-ink.vercel.app) |
-| <img src="https://img.shields.io/badge/-Custom_Web_Apps-2FA679?style=flat-square" /> | **[Private Meetup App](https://tekguyz.com/work/private-meetup-app).** A person checks every card. The address stays hidden until the host says yes. | [Open it →](https://meet4weed.vercel.app) |
-| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Team Performance & Customer Feedback](https://tekguyz.com/work/team-performance).** Phone logs credit the right person. Surveys know when to stop. | [Open it →](https://advantage-teams.vercel.app/dashboard) |
+| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Field Photo Reports](https://tekguyz.com/work/field-photo-reports).** Installers send one Report from the job site with stamped photos. The office sees it live. English and Spanish. | [Open it](https://realstone-field-ops.vercel.app) |
+| <img src="https://img.shields.io/badge/-AI_Voice_Agents-7C6FE0?style=flat-square" /> | **[AI Voice Receptionist](https://tekguyz.com/work/ai-voice-receptionist).** Answers after-hours calls, books the consultation, and syncs the CRM. Watch it happen on one screen. | [Open it](https://tekguyz-sarah.vercel.app) |
+| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Lead & Pipeline CRM](https://tekguyz.com/work/tekguyz-crm).** Every lead from first enquiry to closed deal. The CRM we run TEKGUYZ on. | [Open it](https://tekguyz-crm.vercel.app/demo) |
+| <img src="https://img.shields.io/badge/-Smart_Operations-3B6FE0?style=flat-square" /> | **[AI Meeting Notes](https://tekguyz.com/work/ai-meeting-notes).** Records from the browser, no bot in the call. Every takeaway links back to the transcript. | [Open it](https://squid-ink.vercel.app) |
+| <img src="https://img.shields.io/badge/-Custom_Web_Apps-2FA679?style=flat-square" /> | **[Private Meetup App](https://tekguyz.com/work/private-meetup-app).** A person checks every card. The address stays hidden until the host says yes. | [Open it](https://meet4weed.vercel.app) |
+| <img src="https://img.shields.io/badge/-Business_Systems-F2A93C?style=flat-square" /> | **[Team Performance & Customer Feedback](https://tekguyz.com/work/team-performance).** Phone logs credit the right person. Surveys know when to stop. | [Open it](https://advantage-teams.vercel.app/dashboard) |
 
 ---
 
